@@ -15,6 +15,9 @@ git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
 # 添加helloworld
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
+# 添加vssr
+git clone https://github.com/jerrykuku/luci-app-vssr.git package/vssr
+
 # 添加poweroff
 git clone https://github.com/esirplayground/luci-app-poweroff.git package/poweroff
 
