@@ -12,5 +12,11 @@
 # 添加passwall
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
 
+# 添加helloworld
+git clone https://github.com/fw876/helloworld.git package/helloworld
+
+# 添加poweroff
+git clone https://github.com/esirplayground/luci-app-poweroff.git package/poweroff
+
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
